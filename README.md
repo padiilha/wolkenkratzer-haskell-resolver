@@ -1,4 +1,4 @@
-# Wolkenkratzer (Arranha-céus) — Resolvedor em Haskell
+# Wolkenkratzer — Resolvedor em Haskell
 
 **Disciplina:** INE5416 – Paradigmas de Programação  
 **Alunos:**
@@ -10,7 +10,7 @@
 
 ## O puzzle
 
-Wolkenkratzer ("arranha-céus" em alemão) é um puzzle lógico jogado em uma grade N×N.
+Wolkenkratzer é um puzzle lógico, derivado do Sudoku, jogado em uma grade N×N.
 
 **Regras:**
 
